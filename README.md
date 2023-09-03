@@ -16,7 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./QR-CODE-COMPONENT-MAIN/screenshot.png)
+![](./screenshot.png)
 
 ### Links
 
@@ -32,7 +32,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Continued development
 
 In the next challenge, I will make a Product card component challenge like this :
-![](./QR-CODE-COMPONENT-MAIN/images/next-project.jpg)
+![](./images/next-project.jpg)
 
 ## Author
 
